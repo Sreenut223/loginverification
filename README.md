@@ -31,5 +31,5 @@ On correct password: user is greeted with a welcome message.
 On wrong password: error appears inside the login box.
 After 3 wrong attempts: attempts completed is shown.
 
-                                                                                                                -𝓢𝓻𝓮𝓮𝓷𝓲𝓿𝓪𝓼𝓾𝓵𝓾 𝓡𝓮𝓭𝓭𝔂
-                                                                                                                       9491558730
+                                                                                        -𝓢𝓻𝓮𝓮𝓷𝓲𝓿𝓪𝓼𝓾𝓵𝓾 𝓡𝓮𝓭𝓭𝔂
+                                                                                               9491558730
